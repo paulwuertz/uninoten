@@ -4,13 +4,13 @@ Beispiel: [Ein bisschen Hauptstudium](http://www.p4w5.eu/noten/et_gs/?noten=4%2C
 
 ## Was ist Uninoten
 
-Unilinks ist eine private Linksammlung zu Veranstaaltungen und Seiten der [TU Dresden](https://tu-dresden.de/), deren Ziel es ist, einen zusammenfassenden Überblick für Ressourcen einzelner Studiengänge zu geben. Dieses Repository dient zur offenen Verwaltung dieser Sammlung.
+Uninoten ist ein privates Tool um Tendenz der bisherigen Studienleistung zu berechnen.
 
 ## Verfügbare Studiengänge
 
 Aktuell sind nur folgende Studiengänge aufgelistet:
 * Elektrotechnik (Vordiplom/Grundstudium)
-  * Automatisierungstechnik
+	* Automatisierungstechnik
 	* Mikroelektronik
 	* Elektroenergietechnik
 	* Informationstechnik
