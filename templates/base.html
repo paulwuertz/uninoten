@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>uninoten</title>
+    <link rel="stylesheet" href="{{ CONST.url }}static/bootstrap.min.css" />
+    <link rel="stylesheet" href="{{ CONST.url }}static/style.css" />
+    {% block style %}{% endblock style %}
+</head>
+<body>
+    {% include "navbar.html" %}
+    <div class="outer">
+        {% block content %}
+            <p>Default content to be displayed</p>
+        {% endblock content %}
+    Bei Interesse oder Lust etwas mit einzupflegen <a href="https://github.com/paulwuertz/uninoten">hier das Repo...</a>
+    </div>
+    <script type="text/javascript" src="{{ CONST.url }}static/jquery.js"></script>
+    <script type="text/javascript" src="{{ CONST.url }}static/bootstrap.min.js"></script>
+    {% block script %}{% endblock script %}
+</body>
+</html>

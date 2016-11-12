@@ -1,0 +1,61 @@
+.outer {
+	max-width: 960px;
+    float: none;
+    margin: 0 auto;
+}
+
+.top-link	{
+	margin-top: 0px;
+}
+
+#pHead{
+	margin-bottom: 15px;
+}
+
+dl {
+  width: 100%;
+  overflow: hidden;
+  padding: 0;
+  margin: 0
+}
+dt {
+  float: left;
+  width: 25%;
+  /* adjust the width; make sure the total of both is 100% */
+  padding: 0;
+  margin: 0
+}
+dd {
+  float: left;
+  width: 75%;
+  /* adjust the width; make sure the total of both is 100% */
+  padding: 0;
+  margin: 0
+}
+
+.noten-row{
+		margin: 0px;
+		padding: 0px;
+}
+
+.noten-col {
+		text-align: center;
+}
+
+.bfh-number{
+	color: #000;
+}
+
+hr {
+		margin-top: 5px;
+		margin-bottom: 5px;
+		padding: 0px;
+}
+
+.sliderNoten {
+	width: 100%;
+}
+
+.sliderWrapper{
+	text-align: center;
+}
