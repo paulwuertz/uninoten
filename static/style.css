@@ -59,3 +59,8 @@ hr {
 .sliderWrapper{
 	text-align: center;
 }
+
+body {
+	color: #fff;
+	background-color: #000;
+}
