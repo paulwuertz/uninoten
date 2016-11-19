@@ -153,5 +153,10 @@
                     "Website":"http://www.math.tu-dresden.de/~kuhlisch/lehre/mathe_et_ws2015.shtml"
                 },
                 "semester":[9]
+              },
+              {
+                "name":"Oberseminar",
+                "credits":4,
+                "semester":[9]
               }
 ]
