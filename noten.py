@@ -24,7 +24,7 @@ def readJSON(file):
 
 @freezer.register_generator
 def noten():
-    vert = ["et_gs","et_it","et_gmm","et_amr","et_eet","et_mel","ist_gs","psy_ba"]
+    vert = ["et_gs","et_it","et_gmm","et_amr","et_eet","et_mel","ist_gs","psy_ba","bio_ba"]
     for ver in vert:
         yield {"name": ver}
 

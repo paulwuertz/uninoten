@@ -17,6 +17,7 @@ Aktuell sind nur folgende Studiengänge aufgelistet:
 	* Geräte-Medizin-Technik
 * Informationssystemtechnik (Vordiplom/Grundstudium)
 * Psychologie (Bachlor)
+* Biologie (Bachlor)
 
 ## Beitragen
 

@@ -39,7 +39,13 @@
 
   {
     "id":"psy",
-    "title":"Psychologie",
+    "title":"Psychologie BA",
     "files":"psy_ba"
+  },
+
+  {
+    "id":"bio",
+    "title":"Biologie BA",
+    "files":"bio_ba"
   }
 ]
