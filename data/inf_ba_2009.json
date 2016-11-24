@@ -1,0 +1,23 @@
+[
+{"credits":15, "name": "Einführung in die Mathematik für Informatiker"},
+{"credits":15, "name": "Mathematische Methoden für Informatiker"},
+{"credits":6, "name": "Algorithmen und Datenstrukturen"},
+{"credits":6, "name": "Programmierung"},
+{"credits":4, "name": "Einführungspraktikum"},
+{"credits":6, "name": "Softwaretechnologie"},
+{"credits":7, "name": "Betriebssysteme und Sicherheit"},
+{"credits":10, "name": "Datenbanken und Rechnernetze"},
+{"credits":5, "name": "Informations- und Kodierungstheorie"},
+{"credits":8, "name": "Formale Systeme"},
+{"credits":9, "name": "Theoretische Informatik und Logik"},
+{"credits":5, "name": "Intelligente Systeme"},
+{"credits":10, "name": "Rechnerarchitektur"},
+{"credits":10, "name": "Technische Grundlagen und Hardwarepraktikum"},
+{"credits":6, "name": "Systemorientierte Informatik / Hardware Software-Codesign"},
+{"credits":5, "name": "Einführung in die Medieninformatik"},
+{"credits":5, "name": "Einführung in die Computergrafik"},
+{"credits":12, "name": "Vertiefung"},
+{"credits":12, "name": "Vertiefung zur Bachelor-Arbeit"},
+{"credits":5, "name": "Allgemeine Qualifikationen"},
+{"credits":52, "name": "Bachelor-Arbeit und Kolloquium"}
+]

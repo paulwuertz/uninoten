@@ -1,7 +1,7 @@
 [
   {
     "id":"et",
-    "title":"Elektrotechnik",
+    "title":"Elektrotechnik - Grundstudium",
     "files":"et_gs",
     "vertiefungen":[
           {
@@ -36,16 +36,50 @@
     "title":"Informationssystemtechnik",
     "files":"ist_gs"
   },
-
   {
     "id":"psy",
     "title":"Psychologie BA",
     "files":"psy_ba"
   },
-
   {
     "id":"bio",
     "title":"Biologie BA",
     "files":"bio_ba"
+  },
+  {
+    "id":"inf_ba",
+    "title":"Informatik BA",
+    "files":"inf_ba_2009",
+    "vertiefungen":[
+      {
+        "id":"inf_ma",
+        "title":"Informatik MA",
+        "files":"inf_ma_2010"
+      }
+    ]
+  },
+  {
+    "id":"minf_ba",
+    "title":"Medieninformatik BA",
+    "files":"minf_ba_2009",
+    "vertiefungen":[
+      {
+        "id":"minf_ma",
+        "title":"Medieninformatik MA",
+        "files":"minf_ma_2010"
+      }
+    ]
+  },
+  {
+    "id":"inf_vd",
+    "title":"Vordiplom Informatik",
+    "files":"inf_vd_2010",
+    "vertiefungen":[
+        {
+          "id":"inf_dp",
+          "title":"Diplom Informatik",
+          "files":"inf_dp_2010"
+        }
+    ]
   }
 ]

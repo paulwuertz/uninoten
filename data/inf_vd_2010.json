@@ -1,0 +1,19 @@
+[
+{"credits":12, "name": "Einführung in die Mathematik für Informatiker"},
+{"credits":12, "name": "Mathematische Methoden für Informatiker"},
+{"credits":5, "name": "Algorithmen und Datenstrukturen"},
+{"credits":5, "name": "Programmierung"},
+{"credits":4, "name": "Einführungs- und Programmierpraktikum"},
+{"credits":5, "name": "Softwaretechnologie"},
+{"credits":7, "name": "Betriebssysteme und Sicherheit"},
+{"credits":9, "name": "Datenbanken und Rechnernetze"},
+{"credits":4, "name": "Informations- und Kodierungstheorie"},
+{"credits":8, "name": "Formale Systeme"},
+{"credits":8, "name": "Theoretische Informatik und Logik"},
+{"credits":4, "name": "Intelligente Systeme"},
+{"credits":10, "name": "Rechnerarchitektur"},
+{"credits":9, "name": "Technische Grundlagen und Hardwarepraktikum"},
+{"credits":4, "name": "Systemorientierte Informatik / Hardware Software-Codesign"},
+{"credits":7, "name": "Nebenfach"},
+{"credits":5, "name": "Allgemeine Qualifikationen"}
+]

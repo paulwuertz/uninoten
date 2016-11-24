@@ -1,4 +1,4 @@
-# [Unilinks](http://p4w5.eu/uninoten)
+# [Uninoten](http://p4w5.eu/uninoten)
 
 Beispiel: [Ein bisschen Hauptstudium](http://www.p4w5.eu/noten/et_gs/?noten=4%2C2.9%2C3.2%2C2.4%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5)
 
@@ -16,6 +16,13 @@ Aktuell sind nur folgende Studiengänge aufgelistet:
 	* Informationstechnik
 	* Geräte-Medizin-Technik
 * Informationssystemtechnik (Vordiplom/Grundstudium)
+* Informatik
+	* Bachlor
+	* Bachlor Medieninformatik
+	* Master
+	* Master Medieninformatik
+	* Vordiplom
+	* Diplom
 * Psychologie (Bachlor)
 * Biologie (Bachlor)
 

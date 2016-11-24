@@ -24,10 +24,8 @@ def readJSON(file):
 
 @freezer.register_generator
 def noten():
-    vert = ["et_gs","et_it","et_gmm","et_amr","et_eet","et_mel","ist_gs","psy_ba","bio_ba"]
-    for ver in vert:
-        yield {"name": ver}
-
+    for link in links:
+        yield {"name": link}
 @app.route('/<name>/')
 def noten(name):
     data=readJSON(name)
@@ -40,6 +38,9 @@ def home():
 CONST={
     "url":"http://www.p4w5.eu/noten/"
 }
+index = readJSON("index")
+links=[v["files"] for v in index]
+links+=[v["files"] for f in index if "vertiefungen" in f for v in f["vertiefungen"]]
 facher=readJSON("index")
 if __name__ == '__main__':
     freezer.freeze()
