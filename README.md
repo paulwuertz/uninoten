@@ -1,4 +1,4 @@
-# [Uninoten](http://p4w5.eu/uninoten)
+# [Uninoten](http://p4w5.eu/noten)
 
 Beispiel: [Ein bisschen Hauptstudium](http://www.p4w5.eu/noten/et_gs/?noten=4%2C2.9%2C3.2%2C2.4%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5%2C5)
 
