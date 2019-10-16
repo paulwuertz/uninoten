@@ -1,0 +1,86 @@
+[
+        {
+          "name":"Theorie und Anwendung Formaler Systeme",
+          "credits":10,
+          "modul":"INF-B-275",
+          "semester":[5,6]
+        },
+        {
+          "name":"Datenbanken und Rechnernetze",
+          "credits":10,
+          "modul":"INF-B-370",
+          "semester":[6]
+        },
+        {
+          "name":"Betriebssysteme und Sicherheit",
+          "credits":7,
+          "modul":"INF-B-380",
+          "semester":[5]
+        },
+        {
+          "name":"Nachrichtentechnik",
+          "credits":3,
+          "modul":"ET-12-10-24",
+          "semester":[5]
+        },
+        {
+          "name":"Schaltkreis- und Systementwurf",
+          "credits":7,
+          "modul":"ET-12-08-18",
+          "semester":[5,6]
+        },
+        {
+          "name":"Signalverarbeitung und Informationstechnologie",
+          "credits":7,
+          "modul":"ET-12-10-27",
+          "semester":[5,6]
+        },
+        {
+          "name":"Wissenschaftliche Arbeitsmethodik",
+          "modul":"ET-INF-D-900",
+  		    "credits":6,
+          "semester":[5,6]
+        },
+        {
+          "name":"Diplomarbeit",
+          "modul":"ET-30-10-02-02",
+          "credits":30,
+          "semester":[10]
+        },
+        {
+          "name":"Studienarbeit",
+          "modul":"ET-12-STA",
+          "credits":12,
+          "semester":[8]
+        },
+        {
+          "name":"Wahlpflich I",
+          "modul":"ET-12-XX-XX",
+          "credits":7,
+          "semester":[8]
+        },
+        {
+          "name":"Wahlpflich II",
+          "modul":"ET-12-XX-XX",
+          "credits":7,
+          "semester":[8]
+        },
+        {
+          "name":"Wahlpflich III",
+          "modul":"ET-12-XX-XX",
+          "credits":7,
+          "semester":[9]
+        },
+        {
+          "name":"Basismodul Informatik",
+          "modul":"ET-12-XX-XX",
+          "credits":12,
+          "semester":[9]
+        },
+        {
+          "name":"Vertiefungsmodul Informatik",
+          "modul":"ET-12-XX-XX",
+          "credits":15,
+          "semester":[9]
+        }
+]
