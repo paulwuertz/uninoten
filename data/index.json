@@ -32,9 +32,14 @@
     ]
   },
   {
-    "id":"ist",
-    "title":"Informationssystemtechnik",
+    "id":"ist_gs",
+    "title":"Informationssystemtechnik (GS)",
     "files":"ist_gs"
+  },
+  {
+    "id":"ist_hs",
+    "title":"Informationssystemtechnik (HS)",
+    "files":"et_ist_hs"
   },
   {
     "id":"psy",
